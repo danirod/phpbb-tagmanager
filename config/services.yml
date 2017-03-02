@@ -1,0 +1,9 @@
+services:
+    danirod.tagmanager.listener:
+        class: danirod\tagmanager\event\taglistener
+        arguments:
+        - '@user'
+        - '@template'
+        - '@config'
+        tags:
+            - { name: event.listener }

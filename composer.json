@@ -1,0 +1,29 @@
+{
+  "name": "danirod/tagmanager",
+  "type": "phpbb-extension",
+  "description": "Google Tag Manager extension for phpBB",
+  "homepage": "https://github.com/danirod/phpbb-tagmanager",
+  "version": "0.1.0-dev",
+  "keywords": ["phpbb", "tagmanager", "google", "google-tag-manager"],
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Dani Rodríguez",
+      "email": "danirod@outlook.com",
+      "homepage": "https://www.danirod.es"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "composer/installers": "~1.0"
+  },
+  "require-dev": {
+    "phpbb/epv": "dev-master"
+  },
+  "extra": {
+    "display-name": "Google Tag Manager",
+    "soft-require": {
+      "phpbb/phpbb": "~3.2"
+    }
+  }
+}
