@@ -1,0 +1,20 @@
+{
+  "name": "danirod-tagmanager",
+  "version": "0.1.0-dev",
+  "description": "Integrate Google Tag Manager into your phpBB installation.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danirod/phpbb-tagmanager.git"
+  },
+  "author": "Dani Rodríguez <danirod@outlook.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/danirod/phpbb-tagmanager/issues"
+  },
+  "homepage": "https://github.com/danirod/phpbb-tagmanager#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-zip": "^4.0.0"
+  }
+}
