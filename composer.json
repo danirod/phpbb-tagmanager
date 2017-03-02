@@ -3,7 +3,7 @@
   "type": "phpbb-extension",
   "description": "Integrate Google Tag Manager into your phpBB installation.",
   "homepage": "https://github.com/danirod/phpbb-tagmanager",
-  "version": "0.1.0-dev",
+  "version": "0.1.0",
   "keywords": ["phpbb", "google-tag-manager"],
   "license": "GPL-3.0",
   "authors": [
