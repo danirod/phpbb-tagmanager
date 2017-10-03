@@ -4,6 +4,10 @@ This extension lets admins put a Google Tag Manager tag in the website via
 the ACP with no extra coding. Just enable the extension, go to the board
 settings, and set your container ID.
 
+It has been tested to work with phpBB 3.2.0 and phpBB 3.2.1. Older versions
+are not supported, although they haven't been tested so I don't know what
+to expect.
+
 ## Notice
 
 This extension integrates with a third party product made by Google Inc.
